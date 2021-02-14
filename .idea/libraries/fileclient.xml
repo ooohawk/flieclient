@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fileclient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/fileclient/fileclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
